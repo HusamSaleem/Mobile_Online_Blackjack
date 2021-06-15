@@ -5,6 +5,7 @@
 
 # Client Side Repo
 - https://github.com/HusamSaleem/OnlineBlackjack_Client
+- (Has pictures of the app in demo) ^ ^ ^
 
 # Server Side Repo
 - https://github.com/HusamSaleem/OnlineBlackjack_Server
